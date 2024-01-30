@@ -78,11 +78,11 @@ How to clone a GitHub project into WebStorm, how to use Apache Velocity to set u
 [Styling ordered list numbers](http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/)
 
 
-## Git Tips and Reference
+## Invitations and Simcha Posters
 
-[Git in six hundred words](https://maryrosecook.com/blog/post/git-in-six-hundred-words): A pretty good introduction to git commands and workflow.
+[InviteWithClass](https://invitewithclass.com/)
 
-[Git notes](https://github.com/stylekit/research/wiki/Git-notes): GitHub wiki with notes on Git commands and usage.
+[YidCards](https://yidcards.com/#/)
 
 [Git Tips](https://github.com/git-tips/tips)
 
